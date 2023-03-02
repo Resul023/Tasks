@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\bin\Debug\net7.0\ClimbingtheLeaderboard.exe
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\bin\Debug\net7.0\ClimbingtheLeaderboard.deps.json
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\bin\Debug\net7.0\ClimbingtheLeaderboard.runtimeconfig.json
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\bin\Debug\net7.0\ClimbingtheLeaderboard.dll
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\bin\Debug\net7.0\ClimbingtheLeaderboard.pdb
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\ClimbingtheLeaderboard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\ClimbingtheLeaderboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\ClimbingtheLeaderboard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\ClimbingtheLeaderboard.AssemblyInfo.cs
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\ClimbingtheLeaderboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\ClimbingtheLeaderboard.dll
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\refint\ClimbingtheLeaderboard.dll
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\ClimbingtheLeaderboard.pdb
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\ClimbingtheLeaderboard.genruntimeconfig.cache
+C:\Users\User\Desktop\Tasks\ClimbingTheLeaderboard\ClimbingtheLeaderboard\ClimbingtheLeaderboard\obj\Debug\net7.0\ref\ClimbingtheLeaderboard.dll

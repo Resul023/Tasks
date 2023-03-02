@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\bin\Debug\net7.0\GradingStudents.exe
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\bin\Debug\net7.0\GradingStudents.deps.json
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\bin\Debug\net7.0\GradingStudents.runtimeconfig.json
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\bin\Debug\net7.0\GradingStudents.dll
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\bin\Debug\net7.0\GradingStudents.pdb
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\GradingStudents.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\GradingStudents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\GradingStudents.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\GradingStudents.AssemblyInfo.cs
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\GradingStudents.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\GradingStudents.dll
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\refint\GradingStudents.dll
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\GradingStudents.pdb
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\GradingStudents.genruntimeconfig.cache
+C:\Users\User\Desktop\Tasks\GradingStudents\GradingStudents\GradingStudents\obj\Debug\net7.0\ref\GradingStudents.dll
